@@ -1,7 +1,7 @@
-#Projeto - Instagram
+# Projeto - Instagram
 
-##Bootcamp Santander
+## Bootcamp Santander
 
-###Desafio de Projeto da DIO de recriar a página do Instagram
+### Desafio de Projeto da DIO de recriar a página do Instagram
 
-###Básico de HTML e CSS - Flexbox
+### Básico de HTML e CSS - Flexbox
