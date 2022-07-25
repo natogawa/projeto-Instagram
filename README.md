@@ -1,6 +1,6 @@
 # Projeto - Instagram
 
-## Bootcamp Santander
+## Bootcamp Geração Tech Unimed-BH / Fullstack
 
 ### Desafio de Projeto da DIO de recriar a página do Instagram
 
